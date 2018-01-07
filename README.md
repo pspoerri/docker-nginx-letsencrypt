@@ -5,8 +5,7 @@ Integrates into the [docker-compose-letsencrypt-nginx-proxy-companion](https://g
 ## How to use it
 
 1. Setup the [docker-compose-letsencrypt-nginx-proxy-companion](https://github.com/evertramos/docker-compose-letsencrypt-nginx-proxy-companion)
-2. Clone the repository
-    git clone https://github.com/pspoerri/docker-nginx-letsencrypt.git
+2. Clone the repository `git clone https://github.com/pspoerri/docker-nginx-letsencrypt.git`
 
 3. Make a copy of `.env.sample and rename it to `.env` and adapt it to your needs.
 ```
